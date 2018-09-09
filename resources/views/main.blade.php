@@ -1,6 +1,6 @@
 @extends('layouts.head')
 
-@section('content)
+@section('content')
     <div id="content" class="site-content ">
         <div id="primary" class="container">
             <div class="row">
@@ -1353,4 +1353,4 @@
         </div><!-- .content-area -->
 
     </div><!-- .site-content -->
-  @endsection
+@endsection
