@@ -79,11 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
-                    Laravel
-=======
-                    Laravel EQGQERG
->>>>>>> 09c41cfef033b0b3cdc669f238926536a29a53bb
+              ergrergeer
                 </div>
 
                 <div class="links">
