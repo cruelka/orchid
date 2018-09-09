@@ -276,11 +276,7 @@
                                             <li id="menu-item-2197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2197"><a href="index.html#"><span>About Us</span></a>
 
                                             </li>
-                                    <li class="logo">
-                                        <div class="main_logo"><a href="index.html"><img alt="Burnley" src="wp-content/uploads/2017/12/thumbnail.png"></a></div>                <span onclick="" class="cshero-menu-mobile pe-7s-menu toggle_menu hidden-md hidden-lg">
-                    <i></i>
-                </span>
-                                    </li>
+
                                             <li id="menu-item-2210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2210"><a href="index.html#"><span>Events</span></a>
 
                                             </li>
