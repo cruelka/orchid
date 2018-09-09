@@ -5,17 +5,13 @@
     <meta name="viewport" content="initial-scale=1, width=device-width" />
     <link rel="profile" href="http://gmpg.org/xfn/11" />
     <link rel="pingback" href="http://demo.spyropress.com/themeforest/burnley/xmlrpc.php" />
-    <link rel="shortcut icon" type="image/x-icon" href="{{assets('wp-content/themes/burnley/favicon.ico')}}" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{asset('wp-content/themes/burnley/favicon.ico')}}" />
     <script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
     <title>Burnley &#8211; Just another WordPress site</title>
     <style>
         .wishlist_table .add_to_cart, a.add_to_wishlist.button.alt { border-radius: 16px; -moz-border-radius: 16px; -webkit-border-radius: 16px; }			</style>
 
     <link rel="alternate" type="application/rss+xml" title="Burnley &raquo; Feed" href="http://demo.spyropress.com/themeforest/burnley/feed" />
-    <script type="text/javascript" src="wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js"></script>
-    <script type="text/javascript" src="wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js"></script>
-    <script type="text/javascript" src="wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js"></script>
-    <script type="text/javascript" src="wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js"></script>
     <link rel="alternate" type="application/rss+xml" title="Burnley &raquo; Comments Feed" href="http://demo.spyropress.com/themeforest/burnley/comments/feed" />
     <script type="text/javascript">
         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/demo.spyropress.com\/themeforest\/burnley\/wp-includes\/js\/wp-emoji.js?ver=4.9.8","twemoji":"http:\/\/demo.spyropress.com\/themeforest\/burnley\/wp-includes\/js\/twemoji.js?ver=4.9.8"}};
