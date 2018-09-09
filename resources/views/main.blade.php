@@ -62,7 +62,7 @@
                                                                          data-paddingbottom="[0,0,0,0]"
                                                                          data-paddingleft="[0,0,0,0]"
 
-                                                                         style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">orcid </div>
+                                                                         style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">orchid </div>
 
                                                                     <!-- LAYER NR. 3 -->
                                                                     <div class="tp-caption   tp-resizeme"
@@ -159,7 +159,7 @@
                                                                          data-paddingbottom="[0,0,0,0]"
                                                                          data-paddingleft="[0,0,0,0]"
 
-                                                                         style="z-index: 5; white-space: nowrap; font-size: 52px; line-height: 52px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">welcome to the </div>
+                                                                         style="z-index: 5; white-space: nowrap; font-size: 52px; line-height: 52px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">Next text</div>
 
                                                                     <!-- LAYER NR. 7 -->
                                                                     <div class="tp-caption   tp-resizeme"
@@ -181,7 +181,7 @@
                                                                          data-paddingbottom="[0,0,0,0]"
                                                                          data-paddingleft="[0,0,0,0]"
 
-                                                                         style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">burnley </div>
+                                                                         style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">we have </div>
 
                                                                     <!-- LAYER NR. 8 -->
                                                                     <div class="tp-caption   tp-resizeme"
@@ -203,7 +203,7 @@
                                                                          data-paddingbottom="[0,0,0,0]"
                                                                          data-paddingleft="[0,0,0,0]"
 
-                                                                         style="z-index: 7; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:fa;text-transform:uppercase;">agency </div>
+                                                                         style="z-index: 7; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:fa;text-transform:uppercase;">to create </div>
 
                                                                     <!-- LAYER NR. 9 -->
                                                                     <div class="tp-caption rev-btn "
@@ -278,7 +278,7 @@
                                                                          data-paddingbottom="[0,0,0,0]"
                                                                          data-paddingleft="[0,0,0,0]"
 
-                                                                         style="z-index: 5; white-space: nowrap; font-size: 52px; line-height: 52px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">welcome to the </div>
+                                                                         style="z-index: 5; white-space: nowrap; font-size: 52px; line-height: 52px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">and</div>
 
                                                                     <!-- LAYER NR. 12 -->
                                                                     <div class="tp-caption   tp-resizeme"
@@ -300,7 +300,7 @@
                                                                          data-paddingbottom="[0,0,0,0]"
                                                                          data-paddingleft="[0,0,0,0]"
 
-                                                                         style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">burnley </div>
+                                                                         style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">one </div>
 
                                                                     <!-- LAYER NR. 13 -->
                                                                     <div class="tp-caption   tp-resizeme"
@@ -322,7 +322,7 @@
                                                                          data-paddingbottom="[0,0,0,0]"
                                                                          data-paddingleft="[0,0,0,0]"
 
-                                                                         style="z-index: 7; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:fa;text-transform:uppercase;">agency </div>
+                                                                         style="z-index: 7; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:fa;text-transform:uppercase;">more </div>
 
                                                                     <!-- LAYER NR. 14 -->
                                                                     <div class="tp-caption rev-btn "
