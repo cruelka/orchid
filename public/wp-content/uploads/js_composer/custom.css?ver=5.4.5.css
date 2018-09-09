@@ -1,0 +1,3 @@
+#cshero-header-navigation .menu-main-menu > ul > li > ul.sub-menu, #cshero-header-navigation .menu-main-menu > li > ul.sub-menu {
+    min-width: 220px;
+}
