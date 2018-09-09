@@ -623,8 +623,6 @@
                         <nav id="site-navigation" class="main-navigation">
                             <div class="menu-main-menu-container">
                                 <ul id="menu-main-menu" class="nav-menu menu-main-menu clearfix">
-                                    <li class="logo"></li>
-
                                     <li id="menu-item-2163"
                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2163">
                                         <a href="index.html"><span>Home</span></a>
@@ -653,11 +651,8 @@
                                         <a href="index.html#"><span>About Us</span></a>
 
                                     </li>
-                                    <li id="menu-item-2210"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2210">
-                                        <a href="index.html#"><span>Events</span></a>
+                                    <li class="logo"></li>
 
-                                    </li>
 
 
                                     <li id="menu-item-2165"
