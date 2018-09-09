@@ -262,193 +262,37 @@
                         <nav id="site-navigation" class="main-navigation">
                             <div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu menu-main-menu clearfix"><li id="menu-item-2163" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2163"><a href="index.html"><span>Home</span></a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-2223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-31 current_page_item menu-item-2223"><a href="index.html"><span>multipage</span></a></li>
-                                            <li id="menu-item-2224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2224"><a href="http://demo.spyropress.com/themeforest/burnley/static-intro"><span>static intro</span></a></li>
-                                            <li id="menu-item-2222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222"><a href="http://demo.spyropress.com/themeforest/burnley/single-page"><span>single page</span></a></li>
                                         </ul>
                                     </li>
-                                    <li id="menu-item-2164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2164"><a href="index.html#"><span>page</span></a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-2196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2196"><a href="index.html#"><span>Shortcodes &#038; widgets</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2255"><a href="http://demo.spyropress.com/themeforest/burnley/typography"><span>Typography</span></a></li>
-                                                    <li id="menu-item-2228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2228"><a href="http://demo.spyropress.com/themeforest/burnley/button"><span>Button</span></a></li>
-                                                    <li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2263"><a href="http://demo.spyropress.com/themeforest/burnley/teasers"><span>Teasers</span></a></li>
-                                                    <li id="menu-item-2262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2262"><a href="http://demo.spyropress.com/themeforest/burnley/progress"><span>Progress</span></a></li>
-                                                    <li id="menu-item-2261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2261"><a href="http://demo.spyropress.com/themeforest/burnley/tabs-collapse"><span>Tabs &#038; Collapse</span></a></li>
-                                                    <li id="menu-item-2260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2260"><a href="http://demo.spyropress.com/themeforest/burnley/bootstrap-element"><span>Bootstrap element</span></a></li>
-                                                    <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="http://demo.spyropress.com/themeforest/burnley/widgets"><span>Widgets</span></a></li>
-                                                    <li id="menu-item-2258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2258"><a href="http://demo.spyropress.com/themeforest/burnley/animation"><span>Animation</span></a></li>
-                                                    <li id="menu-item-2257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2257"><a href="http://demo.spyropress.com/themeforest/burnley/template-icons"><span>Template icons</span></a></li>
-                                                    <li id="menu-item-2256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2256"><a href="http://demo.spyropress.com/themeforest/burnley/social-icons"><span>Social icons</span></a></li>
-                                                </ul>
-                                            </li>
+                                    <li id="menu-item-2164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2164"><a href="index.html#"><span>Services</span></a>
+                                     </li>
+
                                             <li id="menu-item-2206" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2206"><a href="index.html#"><span>Blog</span></a>
                                                 <ul class="sub-menu">
-                                                    <li id="menu-item-2276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="http://demo.spyropress.com/themeforest/burnley/left-sidebar"><span>left sidebar</span></a></li>
-                                                    <li id="menu-item-2277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="http://demo.spyropress.com/themeforest/burnley/right-sidebar"><span>right sidebar</span></a></li>
-                                                    <li id="menu-item-2274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2274"><a href="http://demo.spyropress.com/themeforest/burnley/no-sidebar-2"><span>no sidebar</span></a></li>
-                                                    <li id="menu-item-2275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="http://demo.spyropress.com/themeforest/burnley/no-sidebar"><span>blog grid</span></a></li>
-                                                    <li id="menu-item-2278" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2278"><a href="http://demo.spyropress.com/themeforest/burnley/archives/243"><span>Post</span></a></li>
-                                                    <li id="menu-item-2279" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2279"><a href="http://demo.spyropress.com/themeforest/burnley/archives/216"><span>Post video</span></a></li>
+                                                    <li id="menu-item-2276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href=""><span>Category1</span></a></li>
+                                                    <li id="menu-item-2277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href=""><span>Category2</span></a></li>
+
                                                 </ul>
                                             </li>
-                                            <li id="menu-item-2197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2197"><a href="index.html#"><span>Team</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2265"><a href="http://demo.spyropress.com/themeforest/burnley/team-1"><span>Team 1</span></a></li>
-                                                    <li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a href="http://demo.spyropress.com/themeforest/burnley/team-2"><span>Team 2</span></a></li>
-                                                    <li id="menu-item-2266" class="menu-item menu-item-type-post_type menu-item-object-team menu-item-2266"><a href="http://demo.spyropress.com/themeforest/burnley/archives/team/team-serg-thompson"><span>Team member</span></a></li>
-                                                </ul>
+                                            <li id="menu-item-2197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2197"><a href="index.html#"><span>About Us</span></a>
+
                                             </li>
                                             <li id="menu-item-2210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2210"><a href="index.html#"><span>Events</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2306"><a href="http://demo.spyropress.com/themeforest/burnley/left-sidebar-2"><span>Left sidebar</span></a></li>
-                                                    <li id="menu-item-2305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2305"><a href="http://demo.spyropress.com/themeforest/burnley/right-sidebar-2"><span>Right sidebar</span></a></li>
-                                                    <li id="menu-item-2304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2304"><a href="http://demo.spyropress.com/themeforest/burnley/no-sidebar-3"><span>No sidebar</span></a></li>
-                                                    <li id="menu-item-2209" class="menu-item menu-item-type-post_type menu-item-object-event menu-item-2209"><a href="http://demo.spyropress.com/themeforest/burnley/archives/event/single-event-title"><span>Single Event Title</span></a></li>
-                                                </ul>
+
                                             </li>
-                                            <li id="menu-item-2211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2211"><a href="http://demo.spyropress.com/wordpress/vogue/?post_type=product"><span>shop</span></a></li>
-                                            <li id="menu-item-2227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2227"><a href="http://demo.spyropress.com/themeforest/burnley/about"><span>about</span></a></li>
-                                            <li id="menu-item-2226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2226"><a href="http://demo.spyropress.com/themeforest/burnley/pricing"><span>pricing</span></a></li>
-                                            <li id="menu-item-2220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2220"><a href="http://demo.spyropress.com/themeforest/burnley/appointment"><span>timetable</span></a></li>
-                                            <li id="menu-item-2204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2204"><a href="index.html#"><span>FAQ</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="http://demo.spyropress.com/themeforest/burnley/faq"><span>FAQ</span></a></li>
-                                                    <li id="menu-item-2271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2271"><a href="http://demo.spyropress.com/themeforest/burnley/faq-2"><span>FAQ 2</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2205"><a href="index.html#"><span>Coming Soon</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2273"><a href="http://demo.spyropress.com/themeforest/burnley/coming-soon"><span>Coming Soon</span></a></li>
-                                                    <li id="menu-item-2272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2272"><a href="http://demo.spyropress.com/themeforest/burnley/coming-soon-2"><span>Coming Soon 2</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2179"><a href="http://demo.spyropress.com/themeforest/burnley/?p=1"><span>404</span></a></li>
+
+
+
+
+                                    <li id="menu-item-2165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2165"><a href="index.html#"><span>Models</span></a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-2253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2253"><a href=""><span>Models</span></a></li>
+                                            <li id="menu-item-2254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2254"><a href=""><span>Hostess</span></a></li>
+                                            <li id="menu-item-2185" class="menu-item menu-item-type-post_type menu-item-object-model menu-item-2185"><a href=""><span>Girls</span></a></li>
                                         </ul>
                                     </li>
-                                    <li id="menu-item-2166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2166"><a href="index.html#"><span>feature</span></a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-2167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2167"><a href="index.html#"><span>header</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2285"><a href="http://demo.spyropress.com/themeforest/burnley/header-1"><span>Header 1</span></a></li>
-                                                    <li id="menu-item-2284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2284"><a href="http://demo.spyropress.com/themeforest/burnley/header-2"><span>Header 2</span></a></li>
-                                                    <li id="menu-item-2283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2283"><a href="http://demo.spyropress.com/themeforest/burnley/header-3"><span>Header 3</span></a></li>
-                                                    <li id="menu-item-2282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2282"><a href="http://demo.spyropress.com/themeforest/burnley/header-4"><span>Header 4</span></a></li>
-                                                    <li id="menu-item-2281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2281"><a href="http://demo.spyropress.com/themeforest/burnley/header-5"><span>Header 5</span></a></li>
-                                                    <li id="menu-item-2280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2280"><a href="http://demo.spyropress.com/themeforest/burnley/header-6"><span>Header 6</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2168"><a href="index.html#"><span>side menus</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2169"><a href="http://demo.spyropress.com/themeforest/burnley/?page_id=1819&amp;header_side=1&amp;type=slide-left-light"><span>slide left light</span></a></li>
-                                                    <li id="menu-item-2170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2170"><a href="http://demo.spyropress.com/themeforest/burnley/?page_id=1819&amp;header_side=1&amp;type=slide-right-light"><span>slide right light</span></a></li>
-                                                    <li id="menu-item-2171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2171"><a href="http://demo.spyropress.com/themeforest/burnley/?page_id=1819&amp;header_side=1&amp;type=push-left-light"><span>push left light</span></a></li>
-                                                    <li id="menu-item-2172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2172"><a href="http://demo.spyropress.com/themeforest/burnley/?page_id=1819&amp;header_side=1&amp;type=push-right-light"><span>push right light</span></a></li>
-                                                    <li id="menu-item-2173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2173"><a href="http://demo.spyropress.com/themeforest/burnley/?page_id=1819&amp;header_side=1&amp;type=slide-left-dark"><span>slide left dark</span></a></li>
-                                                    <li id="menu-item-2174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2174"><a href="http://demo.spyropress.com/themeforest/burnley/?page_id=1819&amp;header_side=1&amp;type=slide-right-light"><span>slide right dark</span></a></li>
-                                                    <li id="menu-item-2175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2175"><a href="http://demo.spyropress.com/themeforest/burnley/?page_id=1819&amp;header_side=1&amp;type=push-left-dark"><span>push left dark</span></a></li>
-                                                    <li id="menu-item-2176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2176"><a href="http://demo.spyropress.com/themeforest/burnley/?page_id=1819&amp;header_side=1&amp;type=push-left-dark"><span>push right dark</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2207"><a href="index.html#"><span>Breadcumbs</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2291"><a href="http://demo.spyropress.com/themeforest/burnley/breadcumbs-1"><span>Breadcumbs 1</span></a></li>
-                                                    <li id="menu-item-2290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2290"><a href="http://demo.spyropress.com/themeforest/burnley/breadcumbs-2"><span>Breadcumbs 2</span></a></li>
-                                                    <li id="menu-item-2289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2289"><a href="http://demo.spyropress.com/themeforest/burnley/breadcumbs-3"><span>Breadcumbs 3</span></a></li>
-                                                    <li id="menu-item-2288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2288"><a href="http://demo.spyropress.com/themeforest/burnley/breadcumbs-4"><span>Breadcumbs 4</span></a></li>
-                                                    <li id="menu-item-2287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2287"><a href="http://demo.spyropress.com/themeforest/burnley/breadcumbs-5"><span>Breadcumbs 5</span></a></li>
-                                                    <li id="menu-item-2286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2286"><a href="http://demo.spyropress.com/themeforest/burnley/breadcumbs-6"><span>Breadcumbs 6</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2177"><a href="index.html#"><span>footers</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2300"><a href="http://demo.spyropress.com/themeforest/burnley/footer-top-1"><span>Footer top 1</span></a></li>
-                                                    <li id="menu-item-2301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2301"><a href="http://demo.spyropress.com/themeforest/burnley/footer-top-2"><span>Footer top 2</span></a></li>
-                                                    <li id="menu-item-2299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2299"><a href="http://demo.spyropress.com/themeforest/burnley/footer-top-3"><span>Footer top 3</span></a></li>
-                                                    <li id="menu-item-2298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2298"><a href="http://demo.spyropress.com/themeforest/burnley/footer-top-4"><span>Footer top 4</span></a></li>
-                                                    <li id="menu-item-2297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2297"><a href="http://demo.spyropress.com/themeforest/burnley/footer-top-5"><span>Footer top 5</span></a></li>
-                                                    <li id="menu-item-2296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2296"><a href="http://demo.spyropress.com/themeforest/burnley/footer-top-6"><span>Footer top 6</span></a></li>
-                                                    <li id="menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2303"><a href="http://demo.spyropress.com/themeforest/burnley/footer-top-7"><span>Footer top 7</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2208"><a href="index.html#"><span>Copyrights</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2302"><a href="http://demo.spyropress.com/themeforest/burnley/copyrights-1"><span>Copyrights1</span></a></li>
-                                                    <li id="menu-item-2295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2295"><a href="http://demo.spyropress.com/themeforest/burnley/copyrights-2"><span>Copyrights2</span></a></li>
-                                                    <li id="menu-item-2294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2294"><a href="http://demo.spyropress.com/themeforest/burnley/copyrights-3"><span>Copyrights3</span></a></li>
-                                                    <li id="menu-item-2293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2293"><a href="http://demo.spyropress.com/themeforest/burnley/copyrights-4"><span>Copyrights4</span></a></li>
-                                                    <li id="menu-item-2292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2292"><a href="http://demo.spyropress.com/themeforest/burnley/copyrights-5"><span>Copyrights5</span></a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="logo"></li><li id="menu-item-2221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2221"><a href="http://demo.spyropress.com/themeforest/burnley/portfolios"><span>portfolio</span></a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-2190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2190"><a href="index.html#"><span>Portfolio regular</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2236"><a href="http://demo.spyropress.com/themeforest/burnley/portfolios"><span>portfolio regular 1</span></a></li>
-                                                    <li id="menu-item-2237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2237"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-item"><span>portfolio regular 2</span></a></li>
-                                                    <li id="menu-item-2238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-regular-3"><span>portfolio regular 3</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2191"><a href="index.html#"><span>Portfolio Full Width</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2245"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-full-width-2"><span>portfolio full width 2</span></a></li>
-                                                    <li id="menu-item-2246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2246"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-full-width-3"><span>portfolio full width 3</span></a></li>
-                                                    <li id="menu-item-2247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2247"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-full-width-4"><span>portfolio full width 4</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2192"><a href="index.html#"><span>Portfolio Extended</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2242"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-extends-1"><span>portfolio extended 1</span></a></li>
-                                                    <li id="menu-item-2243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-extends-2"><span>portfolio extended 2</span></a></li>
-                                                    <li id="menu-item-2244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2244"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-extends-3"><span>portfolio extended 3</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2193"><a href="index.html#"><span>Portfolio carousel</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2239"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-carousel-1"><span>portfolio carousel 1</span></a></li>
-                                                    <li id="menu-item-2240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2240"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-carousel-2"><span>portfolio carousel 2</span></a></li>
-                                                    <li id="menu-item-2241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2241"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-carousel-3"><span>portfolio carousel 3</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2248"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-tile"><span>Portfolio tile</span></a></li>
-                                            <li id="menu-item-2195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2195"><a href="index.html#"><span>portfolio left sidebar</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2249"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-right-sidebar-1"><span>portfolio left sidebar 1</span></a></li>
-                                                    <li id="menu-item-2250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2250"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-right-sidebar-2"><span>portfolio left sidebar 2</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2194"><a href="index.html#"><span>portfolio right sidebar</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2251"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-left-sidebar-1"><span>portfolio right sidebar 1</span></a></li>
-                                                    <li id="menu-item-2252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2252"><a href="http://demo.spyropress.com/themeforest/burnley/portfolio-left-sidebar-2"><span>portfolio right sidebar 2</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-2189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2189"><a href="index.html#"><span>Portfolio Item</span></a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-2186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2186"><a href="http://demo.spyropress.com/wordpress/vogue/portfolio/p0017/"><span>Style 1</span></a></li>
-                                                    <li id="menu-item-2187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2187"><a href="http://demo.spyropress.com/wordpress/vogue/portfolio/p0016/"><span>Style 2</span></a></li>
-                                                    <li id="menu-item-2188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2188"><a href="http://demo.spyropress.com/wordpress/vogue/portfolio/p0015/"><span>Style 3</span></a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-2165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2165"><a href="index.html#"><span>models</span></a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-2253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2253"><a href="http://demo.spyropress.com/themeforest/burnley/page-models"><span>models</span></a></li>
-                                            <li id="menu-item-2254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2254"><a href="http://demo.spyropress.com/themeforest/burnley/models-2"><span>Models 2</span></a></li>
-                                            <li id="menu-item-2185" class="menu-item menu-item-type-post_type menu-item-object-model menu-item-2185"><a href="http://demo.spyropress.com/themeforest/burnley/archives/model/isabel-perry"><span>Single model</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-2178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2178"><a href="index.html#"><span>contact</span></a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-2270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2270"><a href="http://demo.spyropress.com/themeforest/burnley/contact-1"><span>Contact 1</span></a></li>
-                                            <li id="menu-item-2268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a href="http://demo.spyropress.com/themeforest/burnley/contact-2-2"><span>Contact 2</span></a></li>
-                                            <li id="menu-item-2267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2267"><a href="http://demo.spyropress.com/themeforest/burnley/contact-3"><span>Contact 3</span></a></li>
-                                            <li id="menu-item-2269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a href="http://demo.spyropress.com/themeforest/burnley/contact-2"><span>Contact 4</span></a></li>
-                                        </ul>
+                                    <li id="menu-item-2178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2178"><a href="index.html#"><span>Contacts</span></a>
+
                                     </li>
                                 </ul></div>                </nav>
                         <!-- #site-navigation -->
