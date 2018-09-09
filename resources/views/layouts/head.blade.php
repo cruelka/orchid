@@ -7,7 +7,7 @@
     <link rel="pingback" href="http://demo.spyropress.com/themeforest/burnley/xmlrpc.php" />
     <link rel="shortcut icon" type="image/x-icon" href="{{asset('wp-content/themes/burnley/favicon.ico')}}" />
     <script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
-    <title>Burnley &#8211; Just another WordPress site</title>
+    <title>Model Agency Orchid</title>
     <style>
         .wishlist_table .add_to_cart, a.add_to_wishlist.button.alt { border-radius: 16px; -moz-border-radius: 16px; -webkit-border-radius: 16px; }			</style>
 
@@ -363,13 +363,11 @@
         jQuery(sliderID).show().html(errorMessage);
     }
 </script>
-<link property="stylesheet" rel='stylesheet' id='vc_google_fonts_lusitanaregular700-css'  href='../../../fonts.googleapis.com/css%3Ffamily=Lusitana%253Aregular%252C700&amp;ver=4.9.8.css' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-progressbar-css'  href='wp-content/plugins/ef4-Framework/frameworks/cmssuperheroes/assets/css/bootstrap-progressbar.min.css%3Fver=0.7.0.css' type='text/css' media='all' />
 <link property="stylesheet" rel='stylesheet' id='vc_pageable_owl-carousel-css-css'  href='wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/assets/owl.min.css%3Fver=5.4.5.css' type='text/css' media='all' />
 <link rel='stylesheet' id='animate-css-css'  href='wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css%3Fver=5.4.5.css' type='text/css' media='all' />
 <script type='text/javascript'>
     /* <![CDATA[ */
-    var wpcf7 = {"apiSettings":{"root":"http:\/\/demo.spyropress.com\/themeforest\/burnley\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
     /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js%3Fver=4.9.1'></script>
@@ -377,25 +375,10 @@
 <script type='text/javascript' src='wp-content/plugins/news-twitter/js/news-twitter.js%3Fver=1.0.0'></script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js%3Fver=2.70'></script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js%3Fver=2.1.4'></script>
-<script type='text/javascript'>
-    /* <![CDATA[ */
-    var woocommerce_params = {"ajax_url":"\/themeforest\/burnley\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/demo.spyropress.com\/themeforest\/burnley\/?wc-ajax=%%endpoint%%"};
-    /* ]]> */
-</script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js%3Fver=3.2.5'></script>
-<script type='text/javascript'>
-    /* <![CDATA[ */
-    var wc_cart_fragments_params = {"ajax_url":"\/themeforest\/burnley\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/demo.spyropress.com\/themeforest\/burnley\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_830fe164dc82a66364b7e3597b111542"};
-    /* ]]> */
-</script>
+
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js%3Fver=3.2.5'></script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.js%3Fver=3.1.6'></script>
-<script type='text/javascript' src='wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js%3Fver=1.2.0'></script>
-<script type='text/javascript'>
-    /* <![CDATA[ */
-    var yith_wcwl_l10n = {"ajax_url":"\/themeforest\/burnley\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","is_user_logged_in":"","ajax_loader_url":"http:\/\/demo.spyropress.com\/themeforest\/burnley\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif","remove_from_wishlist_after_add_to_cart":"yes","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies are enabled on your browser.","added_to_cart_message":"<div class=\"woocommerce-message\">Product correctly added to cart<\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","move_to_another_wishlist_action":"move_to_another_wishlsit","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem"}};
-    /* ]]> */
-</script>
+
 <script type='text/javascript' src='wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js%3Fver=2.1.2'></script>
 <script type='text/javascript' src='wp-content/themes/burnley/assets/js/menu.js%3Fver=1.0.0'></script>
 <script type='text/javascript' src='wp-content/themes/burnley/assets/owlcarousel/js/owl.carousel.min.js%3Fver=1.0.0'></script>
