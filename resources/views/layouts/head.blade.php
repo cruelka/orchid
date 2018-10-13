@@ -777,7 +777,7 @@
                                     class="wg-title">Banner Ad</h3>
                             <div class="about-widget">
                                 <div class="post-media"
-                                     style="background-image: url(wp-content/uploads/2017/08/Depositphotos_34377157_original-1-770x512.jpg);">
+                                     style="background-image: url(/wp-content/uploads/2017/08/Depositphotos_34377157_original-1-770x512.jpg);">
                                     <a href="index.html#"><span class="btn">visit</span><span class="image-text">Model Courses</span></a>
                                 </div>
                             </div>
