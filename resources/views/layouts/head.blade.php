@@ -605,7 +605,7 @@
                 <div class="row">
                     <div id="cshero-header-logo" class="site-branding col-xs-12 col-sm-12 hidden-md hidden-lg">
                         <div class="main_logo"><a href="index.html"><img alt="Burnley"
-                                                                         src="wp-content/uploads/2017/12/thumbnail.png"></a>
+                                                                         src="/wp-content/uploads/2017/12/thumbnail.png"></a>
                         </div>                <span onclick=""
                                                     class="cshero-menu-mobile pe-7s-menu toggle_menu hidden-md hidden-lg">
                     <i></i>
