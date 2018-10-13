@@ -40,11 +40,11 @@
 
                 @endforeach
                 <div style="clear:both"></div>
+                    <div>
                     <span style="margin:0 auto">
                 {{ $posts->links() }}
-                        <span>
-            </span>
-        </span>
+                        </span>
+                    </div>
 
     </div>
 
