@@ -667,10 +667,16 @@
                                         <ul class="sub-menu">
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
-                                                <a href=""><span>Category1</span></a></li>
+                                                <a href=""><span>News</span></a></li>
                                             <li id="menu-item-2277"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277">
-                                                <a href=""><span>Category2</span></a></li>
+                                                <a href=""><span>Beauty</span></a></li>
+                                            <li id="menu-item-2277"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277">
+                                                <a href=""><span>MakeUp</span></a></li>
+                                            <li id="menu-item-2277"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277">
+                                                <a href=""><span>Lovestories</span></a></li>
 
                                         </ul>
                                     </li>
