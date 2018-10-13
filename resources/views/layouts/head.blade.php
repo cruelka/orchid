@@ -208,19 +208,19 @@
         }
     </style>
     <link rel='stylesheet' id='fbw-css'
-          href="{{asset('wp-content/plugins/flickr-badges-widget/css/widget.css%3Fver=0.7.css')}}" type='text/css'
+          href="{{asset('/wp-content/plugins/flickr-badges-widget/css/widget.css%3Fver=0.7.css')}}" type='text/css'
           media='screen'/>
     <link rel='stylesheet' id='fontawesome-css-css'
-          href="{{asset('wp-content/plugins/accesspress-social-counter/css/font-awesome.min.css%3Fver=1.7.3.css')}}"
+          href="{{asset('/wp-content/plugins/accesspress-social-counter/css/font-awesome.min.css%3Fver=1.7.3.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='apsc-frontend-css-css'
-          href="{{asset('wp-content/plugins/accesspress-social-counter/css/frontend.css%3Fver=1.7.3.css')}}"
+          href="{{asset('/wp-content/plugins/accesspress-social-counter/css/frontend.css%3Fver=1.7.3.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='contact-form-7-css'
-          href="{{asset('wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=4.9.1.css')}}" type='text/css'
+          href="{{asset('/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=4.9.1.css')}}" type='text/css'
           media='all'/>
     <link rel='stylesheet' id='rs-plugin-settings-css'
-          href="{{asset('wp-content/plugins/revslider/public/assets/css/settings.css%3Fver=5.4.6.3.1.css')}}"
+          href="{{asset('/wp-content/plugins/revslider/public/assets/css/settings.css%3Fver=5.4.6.3.1.css')}}"
           type='text/css' media='all'/>
     <style id='rs-plugin-settings-inline-css' type='text/css'>
         #rs-demo-id {
@@ -228,62 +228,62 @@
     </style>
 
     <link rel='stylesheet' id='jquery-selectBox-css'
-          href="{{asset('wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css%3Fver=1.2.0.css')}}"
+          href="{{asset('/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css%3Fver=1.2.0.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='yith-wcwl-main-css'
-          href="{{asset('wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css%3Fver=2.1.2.css')}}"
+          href="{{asset('/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css%3Fver=2.1.2.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='yith-wcwl-font-awesome-css'
-          href="{{asset('wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css%3Fver=4.7.0.css')}}"
+          href="{{asset('/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css%3Fver=4.7.0.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='bootstrap-css'
-          href="{{asset('wp-content/themes/burnley/assets/css/bootstrap.min.css%3Fver=4.9.8.css')}}" type='text/css'
+          href="{{asset('/wp-content/themes/burnley/assets/css/bootstrap.min.css%3Fver=4.9.8.css')}}" type='text/css'
           media='all'/>
     <link rel='stylesheet' id='font-awesome-css'
-          href="{{asset('wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css%3Fver=5.4.5.css')}}"
+          href="{{asset('/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css%3Fver=5.4.5.css')}}"
           type='text/css' media='all'/>
     <!--[if lt IE 9]>
     <![endif]-->
-    <link rel='stylesheet' id='socicon-css' href='wp-content/themes/burnley/assets/css/socicon.css%3Fver=4.9.8.css'
+    <link rel='stylesheet' id='socicon-css' href='/wp-content/themes/burnley/assets/css/socicon.css%3Fver=4.9.8.css'
           type='text/css' media='all'/>
-    <link rel='stylesheet' id='rt-icon-css' href='wp-content/themes/burnley/assets/css/rt-icon.css%3Fver=4.9.8.css'
+    <link rel='stylesheet' id='rt-icon-css' href='/wp-content/themes/burnley/assets/css/rt-icon.css%3Fver=4.9.8.css'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='glyphicons-css'
-          href='wp-content/themes/burnley/assets/css/glyphicons.css%3Fver=4.9.8.css' type='text/css' media='all'/>
+          href='/wp-content/themes/burnley/assets/css/glyphicons.css%3Fver=4.9.8.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='font-stroke-7-icon-css'
-          href='wp-content/themes/burnley/assets/css/pe-icon-7-stroke.css%3Fver=4.9.8.css' type='text/css' media='all'/>
+          href='/wp-content/themes/burnley/assets/css/pe-icon-7-stroke.css%3Fver=4.9.8.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='revogue-animation-css'
-          href='wp-content/themes/burnley/assets/css/animations.css%3Fver=4.9.8.css' type='text/css' media='all'/>
+          href='/wp-content/themes/burnley/assets/css/animations.css%3Fver=4.9.8.css' type='text/css' media='all'/>
     <link property="stylesheet" rel='stylesheet' id='owl-carousel-css'
-          href='wp-content/themes/burnley/assets/owlcarousel/css/owl.carousel.min.css%3Fver=4.9.8.css' type='text/css'
+          href='/wp-content/themes/burnley/assets/owlcarousel/css/owl.carousel.min.css%3Fver=4.9.8.css' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='revogue-owl-carousel-default-css-css'
-          href='wp-content/themes/burnley/assets/owlcarousel/css/owl.theme.default.min.css%3Fver=4.9.8.css'
+          href='/wp-content/themes/burnley/assets/owlcarousel/css/owl.theme.default.min.css%3Fver=4.9.8.css'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='magnific-popup-css-css'
-          href='wp-content/themes/burnley/assets/css/magnific-popup.css%3Fver=1.0.1.css' type='text/css' media='all'/>
+          href='/wp-content/themes/burnley/assets/css/magnific-popup.css%3Fver=1.0.1.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='prettyphoto-css'
-          href='wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css%3Fver=5.4.5.css'
+          href='/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css%3Fver=5.4.5.css'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='revogue-static-css'
-          href='wp-content/themes/burnley/assets/css/static.css%3Fver=4.9.8.css' type='text/css' media='all'/>
+          href='/wp-content/themes/burnley/assets/css/static.css%3Fver=4.9.8.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='custom-dynamic-css'
-          href='wp-content/themes/burnley/assets/css/custom-dynamic.css%3Fver=4.9.8.css' type='text/css' media='all'/>
+          href='/wp-content/themes/burnley/assets/css/custom-dynamic.css%3Fver=4.9.8.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='newsletter-subscription-css'
-          href='wp-content/plugins/newsletter/subscription/style.css%3Fver=5.1.6.css' type='text/css' media='all'/>
+          href='/wp-content/plugins/newsletter/subscription/style.css%3Fver=5.1.6.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='js_composer_front-css'
-          href='wp-content/plugins/js_composer/assets/css/js_composer.min.css%3Fver=5.4.5.css' type='text/css'
+          href='/wp-content/plugins/js_composer/assets/css/js_composer.min.css%3Fver=5.4.5.css' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='js_composer_custom_css-css'
-          href='wp-content/uploads/js_composer/custom.css%3Fver=5.4.5.css' type='text/css' media='all'/>
-    <script type='text/javascript' src='wp-includes/js/jquery/jquery.js%3Fver=1.12.4'></script>
-    <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.js%3Fver=1.4.1'></script>
+          href='/wp-content/uploads/js_composer/custom.css%3Fver=5.4.5.css' type='text/css' media='all'/>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js%3Fver=1.12.4'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.js%3Fver=1.4.1'></script>
     <script type='text/javascript'
-            src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js%3Fver=5.4.6.3.1'></script>
+            src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js%3Fver=5.4.6.3.1'></script>
     <script type='text/javascript'
-            src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js%3Fver=5.4.6.3.1'></script>
+            src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js%3Fver=5.4.6.3.1'></script>
 
-    <script type='text/javascript' src='wp-content/themes/burnley/assets/js/bootstrap.min.js%3Fver=3.3.2'></script>
+    <script type='text/javascript' src='/wp-content/themes/burnley/assets/js/bootstrap.min.js%3Fver=3.3.2'></script>
 
     <noscript>
         <style>.woocommerce-product-gallery {
