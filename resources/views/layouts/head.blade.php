@@ -702,7 +702,8 @@
                                                 <a href=""><span>Hostess</span></a></li>
                                             <li id="menu-item-2185"
                                                 class="menu-item menu-item-type-post_type menu-item-object-model menu-item-2185">
-                                                <a href=""><span>Girls</span></a></li>
+                                                <a href=""><span>Acompanying On Trips
+                                                    </span></a></li>
                                         </ul>
                                     </li>
                                     <li id="menu-item-2178"
