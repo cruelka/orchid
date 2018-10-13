@@ -859,14 +859,14 @@
 
 <script type='text/javascript'
         src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js%3Fver=2.1.2'></script>
-<script type='text/javascript' src='wp-content/themes/burnley/assets/js/menu.js%3Fver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/burnley/assets/js/menu.js%3Fver=1.0.0'></script>
 <script type='text/javascript'
         src='/wp-content/themes/burnley/assets/owlcarousel/js/owl.carousel.min.js%3Fver=1.0.0'></script>
 <script type='text/javascript'
         src='/wp-content/themes/burnley/assets/js/jquery.magnific-popup.min.js%3Fver=1.0.0'></script>
 <script type='text/javascript'
         src='/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js%3Fver=5.4.5'></script>
-<script type='text/javascript' src='wp-content/themes/burnley/assets/js/main.js%3Fver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/burnley/assets/js/main.js%3Fver=1.0.0'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var newsletter = {
