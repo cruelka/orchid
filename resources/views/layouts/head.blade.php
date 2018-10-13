@@ -631,6 +631,34 @@
                                     <li id="menu-item-2164"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2164">
                                         <a href="index.html#"><span>Services</span></a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-2276"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
+                                                <a href=""><span>Event Organisation</span></a></li>
+                                            <li id="menu-item-2277"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277">
+                                                <a href=""><span>Fashion Show Collections</span></a></li>
+                                            <li id="menu-item-2276"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
+                                                <a href=""><span>Private Party</span></a></li>
+                                            <li id="menu-item-2276"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
+                                                <a href=""><span>Leisure</span></a></li>
+                                            <li id="menu-item-2276"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
+                                                <a href=""><span>Individual Photoshooting</span></a></li>
+                                            <li id="menu-item-2276"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
+                                                <a href=""><span>Makeup Courses</span></a></li>
+                                            <li id="menu-item-2276"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
+                                                <a href=""><span>City Tours</span></a></li>
+                                            <li id="menu-item-2276"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
+                                                <a href=""><span>Dating with Wealthy Club Members</span></a></li>
+
+
+                                        </ul>
                                     </li>
 
                                     <li id="menu-item-2206"
