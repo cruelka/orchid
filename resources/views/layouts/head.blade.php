@@ -630,7 +630,7 @@
                                         <ul class="sub-menu">
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
-                                                <a href=""><span>Event Organisation</span></a></li>
+                                                <a href="/page/event-organisation"><span>Event Organisation</span></a></li>
                                             <li id="menu-item-2277"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277">
                                                 <a href=""><span>Fashion Show Collections</span></a></li>
