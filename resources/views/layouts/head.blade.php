@@ -4,7 +4,6 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="initial-scale=1, width=device-width"/>
     <link rel="profile" href="http://gmpg.org/xfn/11"/>
-    <link rel="pingback" href="http://demo.spyropress.com/themeforest/burnley/xmlrpc.php"/>
     <link rel="shortcut icon" type="image/x-icon" href="{{asset('wp-content/themes/burnley/favicon.ico')}}"/>
     <script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
     <title>Model Agency Orchid</title>
@@ -15,10 +14,8 @@
             -webkit-border-radius: 16px;
         }            </style>
 
-    <link rel="alternate" type="application/rss+xml" title="Burnley &raquo; Feed"
-          href="http://demo.spyropress.com/themeforest/burnley/feed"/>
-    <link rel="alternate" type="application/rss+xml" title="Burnley &raquo; Comments Feed"
-          href="http://demo.spyropress.com/themeforest/burnley/comments/feed"/>
+
+
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/",
@@ -305,11 +302,8 @@
     <style type='text/css'>#zflickr-3 ul li {
             margin: 0 5px 5px 0;
         }</style>
-    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
     <!--[if lte IE 9]>
-    <link rel="stylesheet" type="text/css"
-          href="http://demo.spyropress.com/themeforest/burnley/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css"
-          media="screen"><![endif]-->
+
     <meta name="generator"
           content="Powered by Slider Revolution 5.4.6.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."/>
     <script type="text/javascript">function setREVStartSize(e) {
