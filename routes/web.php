@@ -33,3 +33,7 @@ Route::get('page/{slug}', function($slug){
 });
 
 
+Route::get('post/{slug}', function($slug){
+    $post = App\Post::where('slug', '=', $slug)->firstOrFail();
+    return view('post', compact('post'));
+});
