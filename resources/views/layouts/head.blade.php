@@ -254,7 +254,7 @@
     <link rel='stylesheet' id='font-stroke-7-icon-css'
           href='/wp-content/themes/burnley/assets/css/pe-icon-7-stroke.css%3Fver=4.9.8.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='revogue-animation-css'
-          href='wp-content/themes/burnley/assets/css/animations.css%3Fver=4.9.8.css' type='text/css' media='all'/>
+          href='/wp-content/themes/burnley/assets/css/animations.css%3Fver=4.9.8.css' type='text/css' media='all'/>
     <link property="stylesheet" rel='stylesheet' id='owl-carousel-css'
           href='/wp-content/themes/burnley/assets/owlcarousel/css/owl.carousel.min.css%3Fver=4.9.8.css' type='text/css'
           media='all'/>
@@ -276,7 +276,7 @@
           href='/wp-content/plugins/js_composer/assets/css/js_composer.min.css%3Fver=5.4.5.css' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='js_composer_custom_css-css'
-          href='wp-content/uploads/js_composer/custom.css%3Fver=5.4.5.css' type='text/css' media='all'/>
+          href='/wp-content/uploads/js_composer/custom.css%3Fver=5.4.5.css' type='text/css' media='all'/>
     <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js%3Fver=1.12.4'></script>
     <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.js%3Fver=1.4.1'></script>
     <script type='text/javascript'
