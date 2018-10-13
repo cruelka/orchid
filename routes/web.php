@@ -38,6 +38,6 @@ Route::get('/post/{slug}', function($slug){
     return view('post', compact('post'));
 });
 Route::get('/blog', function () {
-    $posts = App\Post::paginate(3);
+    $posts = App\Post::paginate(4);
     return view('posts', compact('posts'));
 });
