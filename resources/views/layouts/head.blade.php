@@ -209,19 +209,19 @@
         }
     </style>
     <link rel='stylesheet' id='fbw-css'
-          href="{{asset('wp-content/plugins/flickr-badges-widget/css/widget.css%3Fver=0.7.css')}}" type='text/css'
+          href="{{asset('/wp-content/plugins/flickr-badges-widget/css/widget.css%3Fver=0.7.css')}}" type='text/css'
           media='screen'/>
     <link rel='stylesheet' id='fontawesome-css-css'
-          href="{{asset('wp-content/plugins/accesspress-social-counter/css/font-awesome.min.css%3Fver=1.7.3.css')}}"
+          href="{{asset('/wp-content/plugins/accesspress-social-counter/css/font-awesome.min.css%3Fver=1.7.3.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='apsc-frontend-css-css'
-          href="{{asset('wp-content/plugins/accesspress-social-counter/css/frontend.css%3Fver=1.7.3.css')}}"
+          href="{{asset('/wp-content/plugins/accesspress-social-counter/css/frontend.css%3Fver=1.7.3.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='contact-form-7-css'
-          href="{{asset('wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=4.9.1.css')}}" type='text/css'
+          href="{{asset('/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=4.9.1.css')}}" type='text/css'
           media='all'/>
     <link rel='stylesheet' id='rs-plugin-settings-css'
-          href="{{asset('wp-content/plugins/revslider/public/assets/css/settings.css%3Fver=5.4.6.3.1.css')}}"
+          href="{{asset('/wp-content/plugins/revslider/public/assets/css/settings.css%3Fver=5.4.6.3.1.css')}}"
           type='text/css' media='all'/>
     <style id='rs-plugin-settings-inline-css' type='text/css'>
         #rs-demo-id {
@@ -229,19 +229,19 @@
     </style>
 
     <link rel='stylesheet' id='jquery-selectBox-css'
-          href="{{asset('wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css%3Fver=1.2.0.css')}}"
+          href="{{asset('/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css%3Fver=1.2.0.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='yith-wcwl-main-css'
-          href="{{asset('wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css%3Fver=2.1.2.css')}}"
+          href="{{asset('/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css%3Fver=2.1.2.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='yith-wcwl-font-awesome-css'
-          href="{{asset('wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css%3Fver=4.7.0.css')}}"
+          href="{{asset('/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css%3Fver=4.7.0.css')}}"
           type='text/css' media='all'/>
     <link rel='stylesheet' id='bootstrap-css'
-          href="{{asset('wp-content/themes/burnley/assets/css/bootstrap.min.css%3Fver=4.9.8.css')}}" type='text/css'
+          href="{{asset('/wp-content/themes/burnley/assets/css/bootstrap.min.css%3Fver=4.9.8.css')}}" type='text/css'
           media='all'/>
     <link rel='stylesheet' id='font-awesome-css'
-          href="{{asset('wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css%3Fver=5.4.5.css')}}"
+          href="{{asset('/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css%3Fver=5.4.5.css')}}"
           type='text/css' media='all'/>
     <!--[if lt IE 9]>
     <![endif]-->
