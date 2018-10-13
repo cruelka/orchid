@@ -31,3 +31,5 @@ Route::get('page/{slug}', function($slug){
     $posts = App\Post::take(3)->get();
     return view('content', compact('data','posts'));
 });
+
+
