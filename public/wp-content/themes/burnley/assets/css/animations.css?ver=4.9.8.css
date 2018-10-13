@@ -3006,7 +3006,7 @@ Animation example, for spinners
 }
 
 .sidebar__news-title {
-	color:#ccc!important;
+	color:#ef90a4!important;
 	font-weight: bold;
 	white-space: nowrap;
 	overflow: hidden;
@@ -3014,7 +3014,7 @@ Animation example, for spinners
 }
 
 .sidebar__news-tags {
-	color:#ccc!important;
+	color:#ef90a4!important;
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
