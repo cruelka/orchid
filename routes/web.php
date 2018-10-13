@@ -21,3 +21,14 @@ Route::get('/model', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});
+Route::get('page/{slug}', function($slug){
+    $data = App\Page::where('slug', '=', $slug)->firstOrFail();
+    $posts = App\Post::take(3)->get();
+    $products = App\Product::take(4)->get();
+    return view('content', compact('data','posts','products'));
+});
