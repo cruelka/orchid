@@ -838,40 +838,40 @@
     }
 </script>
 <link rel='stylesheet' id='bootstrap-progressbar-css'
-      href='wp-content/plugins/ef4-Framework/frameworks/cmssuperheroes/assets/css/bootstrap-progressbar.min.css%3Fver=0.7.0.css'
+      href='/wp-content/plugins/ef4-Framework/frameworks/cmssuperheroes/assets/css/bootstrap-progressbar.min.css%3Fver=0.7.0.css'
       type='text/css' media='all'/>
 <link property="stylesheet" rel='stylesheet' id='vc_pageable_owl-carousel-css-css'
-      href='wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/assets/owl.min.css%3Fver=5.4.5.css'
+      href='/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/assets/owl.min.css%3Fver=5.4.5.css'
       type='text/css' media='all'/>
 <link rel='stylesheet' id='animate-css-css'
-      href='wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css%3Fver=5.4.5.css' type='text/css'
+      href='/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css%3Fver=5.4.5.css' type='text/css'
       media='all'/>
 <script type='text/javascript'>
     /* <![CDATA[ */
     /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js%3Fver=4.9.1'></script>
-<script type='text/javascript' src='wp-content/plugins/news-twitter/js/jquery.bxslider.min.js%3Fver=4.1.2'></script>
-<script type='text/javascript' src='wp-content/plugins/news-twitter/js/news-twitter.js%3Fver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js%3Fver=4.9.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/news-twitter/js/jquery.bxslider.min.js%3Fver=4.1.2'></script>
+<script type='text/javascript' src='/wp-content/plugins/news-twitter/js/news-twitter.js%3Fver=1.0.0'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js%3Fver=2.70'></script>
+        src='/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js%3Fver=2.70'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js%3Fver=2.1.4'></script>
+        src='/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js%3Fver=2.1.4'></script>
 
 <script type='text/javascript'
-        src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js%3Fver=3.2.5'></script>
+        src='/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js%3Fver=3.2.5'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.js%3Fver=3.1.6'></script>
+        src='/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.js%3Fver=3.1.6'></script>
 
 <script type='text/javascript'
-        src='wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js%3Fver=2.1.2'></script>
+        src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js%3Fver=2.1.2'></script>
 <script type='text/javascript' src='wp-content/themes/burnley/assets/js/menu.js%3Fver=1.0.0'></script>
 <script type='text/javascript'
-        src='wp-content/themes/burnley/assets/owlcarousel/js/owl.carousel.min.js%3Fver=1.0.0'></script>
+        src='/wp-content/themes/burnley/assets/owlcarousel/js/owl.carousel.min.js%3Fver=1.0.0'></script>
 <script type='text/javascript'
-        src='wp-content/themes/burnley/assets/js/jquery.magnific-popup.min.js%3Fver=1.0.0'></script>
+        src='/wp-content/themes/burnley/assets/js/jquery.magnific-popup.min.js%3Fver=1.0.0'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js%3Fver=5.4.5'></script>
+        src='/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js%3Fver=5.4.5'></script>
 <script type='text/javascript' src='wp-content/themes/burnley/assets/js/main.js%3Fver=1.0.0'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
@@ -885,16 +885,16 @@
     };
     /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/newsletter/subscription/validate.js%3Fver=5.1.6'></script>
-<script type='text/javascript' src='wp-includes/js/wp-embed.js%3Fver=4.9.8'></script>
+<script type='text/javascript' src='/wp-content/plugins/newsletter/subscription/validate.js%3Fver=5.1.6'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.js%3Fver=4.9.8'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js%3Fver=5.4.5'></script>
+        src='/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js%3Fver=5.4.5'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/ef4-Framework/frameworks/cmssuperheroes/assets/js/bootstrap-progressbar.min.js%3Fver=0.7.0'></script>
+        src='/wp-content/plugins/ef4-Framework/frameworks/cmssuperheroes/assets/js/bootstrap-progressbar.min.js%3Fver=0.7.0'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/ef4-Framework/frameworks/cmssuperheroes/assets/js/bootstrap-progressbar.cms.js%3Fver=1.0.0'></script>
+        src='/wp-content/plugins/ef4-Framework/frameworks/cmssuperheroes/assets/js/bootstrap-progressbar.cms.js%3Fver=1.0.0'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js%3Fver=5.4.5'></script>
+        src='/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js%3Fver=5.4.5'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var cmscarousel = {
@@ -948,14 +948,14 @@
     };
     /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/themes/burnley/assets/js/owl.carousel.cms.js%3Fver=1.0.0'></script>
-<script type='text/javascript' src='wp-includes/js/imagesloaded.min.js%3Fver=3.2.0'></script>
+<script type='text/javascript' src='/wp-content/themes/burnley/assets/js/owl.carousel.cms.js%3Fver=1.0.0'></script>
+<script type='text/javascript' src='/wp-includes/js/imagesloaded.min.js%3Fver=3.2.0'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js%3Fver=5.4.5'></script>
+        src='/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js%3Fver=5.4.5'></script>
 <script type='text/javascript'
-        src='wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js%3Fver=4.9.8'></script>
-<script type='text/javascript' src='wp-includes/js/underscore.min.js%3Fver=1.8.3'></script>
-<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js%3Fver=5.4.5'></script>
+        src='/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js%3Fver=4.9.8'></script>
+<script type='text/javascript' src='/wp-includes/js/underscore.min.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js%3Fver=5.4.5'></script>
 </body>
 </html>
 <!-- Dynamic page generated in 1.334 seconds. -->
