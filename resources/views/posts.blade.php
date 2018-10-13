@@ -26,7 +26,7 @@
                                     <div class="news-card__lable">
                                         {{ $post->meta_keywords }}
                                     </div>
-                                    <a href="/post/{{ $post->slug }}" class="news-card__title">
+                                    <a style = "color: #ef90a4" href="/post/{{ $post->slug }}" class="news-card__title">
                                         {{ $post->title }}
                                     </a>
 
@@ -39,6 +39,7 @@
 
 
                 @endforeach
+                <div style="clear:both"></div>
                 {{ $posts->links() }}
             </div>
         </div>
