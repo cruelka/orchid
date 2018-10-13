@@ -604,7 +604,7 @@
             <div class="container-header container parent-container">
                 <div class="row">
                     <div id="cshero-header-logo" class="site-branding col-xs-12 col-sm-12 hidden-md hidden-lg">
-                        <div class="main_logo"><a href="index.html"><img alt="Burnley"
+                        <div class="main_logo"><a href="/"><img alt="Orchid"
                                                                          src="/wp-content/uploads/2017/12/thumbnail.png"></a>
                         </div>                <span onclick=""
                                                     class="cshero-menu-mobile pe-7s-menu toggle_menu hidden-md hidden-lg">
@@ -621,12 +621,12 @@
                                 <ul id="menu-main-menu" class="nav-menu menu-main-menu clearfix">
                                     <li id="menu-item-2163"
                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2163">
-                                        <a href="index.html"><span>Home</span></a>
+                                        <a href="/"><span>Home</span></a>
 
                                     </li>
                                     <li id="menu-item-2164"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2164">
-                                        <a href="index.html#"><span>Services</span></a>
+                                        <a href=""><span>Services</span></a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
