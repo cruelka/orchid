@@ -29,6 +29,5 @@ Route::group(['prefix' => 'admin'], function () {
 Route::get('page/{slug}', function($slug){
     $data = App\Page::where('slug', '=', $slug)->firstOrFail();
     $posts = App\Post::take(3)->get();
-    $products = App\Product::take(4)->get();
-    return view('content', compact('data','posts','products'));
+    return view('content', compact('data','posts'));
 });
