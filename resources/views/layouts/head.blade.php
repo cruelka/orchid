@@ -642,7 +642,7 @@
                                                 <a href="/page/leisure"><span>Leisure</span></a></li>
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
-                                                <a href=""><span>Individual Photoshooting</span></a></li>
+                                                <a href="/page/individual-photoshooting"><span>Individual Photoshooting</span></a></li>
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
                                                 <a href=""><span>Makeup Courses</span></a></li>

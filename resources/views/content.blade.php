@@ -54,7 +54,6 @@
 
                         <div class="subscribe__heading text-center">
                             Sign up for monthly news <br>
-                            <span class="text-success">and ways to help save earth!</span>
                         </div>
 
                         <form class="form-inline subscribe__form">
