@@ -777,7 +777,7 @@
                                                                     <div class="cms-progress-body">
                                                                         <div class="cms-progress-item-wrap">
                                                                             <h5 class="cms-progress-title">
-                                                                                AFRICAN-AMERICAN MODELS                        <span>
+                                                                                BABYFACE                       <span>
                                                             - 30%                                                    </span>
                                                                             </h5>
                                                                             <div class="cms-progress progress "
@@ -801,8 +801,7 @@
                                                                     <div class="cms-progress-body">
                                                                         <div class="cms-progress-item-wrap">
                                                                             <h5 class="cms-progress-title">
-                                                                                EUROPEAN
-                                                                                MODELS                        <span>
+                                                                               LATINO MODELS                      <span>
                                                             - 10%                                                    </span>
                                                                             </h5>
                                                                             <div class="cms-progress progress "
