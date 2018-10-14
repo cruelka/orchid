@@ -645,13 +645,10 @@
                                                 <a href="/page/individual-photoshooting"><span>Individual Photoshooting</span></a></li>
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
-                                                <a href=""><span>Makeup Courses</span></a></li>
+                                                <a href="/page/makeup-courses"><span>Makeup Courses</span></a></li>
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
-                                                <a href=""><span>City Tours</span></a></li>
-                                            <li id="menu-item-2276"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
-                                                <a href=""><span>Dating with Wealthy Club Members</span></a></li>
+                                                <a href="/page/dating-with-wealthy-club-members"><span>Dating with Wealthy Club Members</span></a></li>
 
 
                                         </ul>
