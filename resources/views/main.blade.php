@@ -824,11 +824,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="cms-btn text-center vc_custom_1509000635200 section-revogue-dark ">
-                                                    <button style="" class="btn btn-revogue-secondary btn-md">read
-                                                        more
-                                                    </button>
-                                                </div>
+
                                             </div>
                                         </div>
                                     </div>
