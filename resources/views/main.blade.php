@@ -220,7 +220,7 @@
                                                                          data-paddingleft="[0,0,0,0]"
 
                                                                          style="z-index: 5; white-space: nowrap; font-size: 52px; line-height: 52px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">
-                                                                        Next text
+                                                                        Help in dating
                                                                     </div>
 
                                                                     <!-- LAYER NR. 7 -->
@@ -246,8 +246,7 @@
                                                                          data-paddingleft="[0,0,0,0]"
 
                                                                          style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">
-                                                                        we have
-                                                                    </div>
+                                                                        Use your                                                                     </div>
 
                                                                     <!-- LAYER NR. 8 -->
                                                                     <div class="tp-caption   tp-resizeme"
@@ -272,7 +271,7 @@
                                                                          data-paddingleft="[0,0,0,0]"
 
                                                                          style="z-index: 7; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:fa;text-transform:uppercase;">
-                                                                        to create
+                                                                        chance
                                                                     </div>
 
                                                                     <!-- LAYER NR. 9 -->
