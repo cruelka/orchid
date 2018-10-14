@@ -656,7 +656,7 @@
 
                                     <li id="menu-item-2206"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2206">
-                                        <a href="index.html#"><span>Blog</span></a>
+                                        <a href="/blog#"><span>Blog</span></a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
