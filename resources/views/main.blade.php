@@ -635,10 +635,10 @@
                                                         <div class="row">
                                                             <div class="col-xs-12 col-md-4">
                                                                 <h2 class="section_header">
-                                                                    <a href="http://demo.spyropress.com/themeforest/burnley/?model=allie-wong">Mollie
-                                                                        Weaver</a>
+                                                                    <a href="http://demo.spyropress.com/themeforest/burnley/?model=allie-wong">Join
+                                                                        Us</a>
                                                                 </h2>
-                                                                <p class="position-model">TOP MODEL &amp; DIRECTOR</p>
+                                                                <p class="position-model">WORLDWIDE</p>
                                                             </div>
                                                             <div class="col-xs-12 col-md-8 text-center text-sm-right">
                                                                 <div class="fontsize_16 lusitana text-uppercase grey parameters">
