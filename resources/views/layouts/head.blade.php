@@ -677,7 +677,7 @@
 
                                     <li id="menu-item-2197"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2197">
-                                        <a href="index.html#"><span>About Us</span></a>
+                                        <a href="/page/about-us"><span>About Us</span></a>
 
                                     </li>
 
