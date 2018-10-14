@@ -643,39 +643,39 @@
                                                             <div class="col-xs-12 col-md-8 text-center text-sm-right">
                                                                 <div class="fontsize_16 lusitana text-uppercase grey parameters">
                         <span>
-                            Height                            <br>
+                            Dubai                            <br>
                             <span class="highlight">
-                                185                            </span>
+                                UAE                            </span>
                         </span>
                         <span>
-                            Bust                            <br>
+                            London                            <br>
                             <span class="highlight">
-                                79                            </span>
+                                UK                            </span>
                         </span>
                         <span>
-                            Waist                            <br>
+                            Moscow                            <br>
                             <span class="highlight">
-                                59                            </span>
+                                RU                            </span>
                         </span>
                         <span>
-                            Hips                            <br>
+                            Astana                            <br>
                             <span class="highlight">
-                                87                            </span>
+                                KZ                            </span>
                         </span>
                         <span>
-                            Shoes                            <br>
+                            Kiev                            <br>
                             <span class="highlight">
-                                39                            </span>
+                                UAH                            </span>
                         </span>
                         <span>
-                            Eyes                            <br>
+                            Madrid                            <br>
                             <span class="highlight">
-                                green                            </span>
+                                Spain                            </span>
                         </span>
                         <span>
-                            Hair                            <br>
+                            Milan                            <br>
                             <span class="highlight">
-                                brown                            </span>
+                                Italy                            </span>
                         </span>
                                                                 </div>
                                                             </div>
