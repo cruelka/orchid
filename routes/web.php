@@ -41,3 +41,7 @@ Route::get('/blog', function () {
     $posts = App\Post::paginate(4);
     return view('posts', compact('posts'));
 });
+Route::get('/blog/{slug}', function($slug){
+    $post = App\Post::where('category', '=', $slug)->paginate(4);;
+    return view('posts', compact('posts'));
+});
