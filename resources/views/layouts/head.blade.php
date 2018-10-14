@@ -636,7 +636,7 @@
                                                 <a href="/page/fashion-show-collections"><span>Fashion Show Collections</span></a></li>
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
-                                                <a href=""><span>Private Party</span></a></li>
+                                                <a href="/page/private-partyhttp://orchid.live/page/private-party"><span>Private Party</span></a></li>
                                             <li id="menu-item-2276"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276">
                                                 <a href=""><span>Leisure</span></a></li>
