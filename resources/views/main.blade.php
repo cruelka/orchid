@@ -704,18 +704,19 @@
                                                             <div class="wpb_wrapper"><p
                                                                         style="font-size: 20px;color: #ffffff;line-height: 26px;text-align: left"
                                                                         class="vc_custom_heading font-arial vc_custom_1507263088675">
-                                                                    Nonumy eirmod tempor invidunt ut labore dolore magna
-                                                                    aliquyam erat, sed diam voluptua.</p>
+                                                                    Our company has been on the market since 2009. During this time we have recommended ourselves as a team of responsible and executive people.
+
+                                                                    All our employees are true professionals in their field who are selected for a job at our agency.
+
+                                                                    Every order of our client is law to us. We respect the individuality and anonymity of everyone from every angle.
+                                                                </p>
                                                                 <p style="font-size: 15px;color: #ffffff;line-height: 26px;text-align: left"
-                                                                   class="vc_custom_heading font-arial">Swine brisket
-                                                                    pig, ground round andouille salami jowl biltong.
-                                                                    Jerky pancetta turducken, landjaeger pig strip steak
-                                                                    meatloaf burgdoggen. Frankfurter meatball beef ribs
-                                                                    chicken burgdoggen shank. Spare ribs pork chop
-                                                                    sirloin ground round kielbasa pork loin shank,
-                                                                    burgdoggen sausage fatback turkey pig picanha
-                                                                    shankle. Tenderloin andouille chicken shank pig ball
-                                                                    tip.</p></div>
+                                                                   class="vc_custom_heading font-arial">
+                                                                    We believe in love. Among our employees, you can even find a life partner.
+
+                                                                    During our work several hundred couples have already been formed, including unconventional.
+
+                                                                    We select people according to status, financial situation, mentality and common interests.</p></div>
                                                         </div>
                                                     </div>
                                                     <div class="wpb_column vc_column_container vc_col-sm-6">
