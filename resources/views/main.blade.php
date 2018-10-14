@@ -850,24 +850,20 @@
                                                                     <div class="plan-name"><h3>REGULAR</h3></div>
                                                                     <div class="plan-price">
                                                                         <span class="small unit">$</span><span
-                                                                                class="price">269</span>
+                                                                                class="price">500</span>
                                                                         <p class="sub-title">PER SHOOT</p></div>
                                                                     <div class="wrap-bot">
                                                                         <div class="features-list">
                                                                             <ul>
-                                                                                <li class="enabled">Meatball kielbasa
-                                                                                    ball
+                                                                                <li class="enabled">In Studio
                                                                                 </li>
-                                                                                <li class="disabled">Boudin jerky
-                                                                                    shank
+                                                                                <li class="disabled">10 Pics + Video
                                                                                 </li>
-                                                                                <li class="disabled">Venison ham ham
+                                                                                <li class="disabled">Make Up
                                                                                 </li>
-                                                                                <li class="disabled">Turducken kielbasa
-                                                                                    sausage
+                                                                                <li class="disabled">Stylist
                                                                                 </li>
-                                                                                <li class="disabled">Tri-tip beef ribs
-                                                                                </li>
+
                                                                             </ul>
                                                                         </div>
                                                                         <div class="call-to-action">
@@ -893,25 +889,19 @@
                                                                     <div class="plan-price"
                                                                          style="background-image: url('wp-content/themes/burnley/assets/images/price.png');">
                                                                         <span class="small unit">$</span><span
-                                                                                class="price">599</span>
+                                                                                class="price">800</span>
                                                                         <p class="sub-title">PER SHOOT</p></div>
                                                                     <div class="wrap-bot">
                                                                         <div class="features-list">
                                                                             <ul>
-                                                                                <li class="enabled">Tenderloin strip
-                                                                                    steak
+                                                                                <li class="enabled">Prime Location Photoshoot
                                                                                 </li>
-                                                                                <li class="disabled">Cow sausage filet
+                                                                                <li class="disabled">Driver
                                                                                 </li>
-                                                                                <li class="disabled">Mignon t-bone
-                                                                                    sirloin
+                                                                                <li class="disabled">Make Up
                                                                                 </li>
-                                                                                <li class="disabled">Shank ham hock</li>
-                                                                                <li class="disabled">Tongue leberkas
-                                                                                    pastrami
-                                                                                </li>
-                                                                                <li class="disabled">Beef ribs cow
-                                                                                    chicken
+                                                                                <li class="disabled">Stylist</li>
+                                                                                <li class="disabled">10 Pics + Video
                                                                                 </li>
                                                                             </ul>
                                                                         </div>
@@ -937,24 +927,20 @@
                                                                     <div class="plan-name"><h3>EXTENDED</h3></div>
                                                                     <div class="plan-price">
                                                                         <span class="small unit">$</span><span
-                                                                                class="price">899</span>
+                                                                                class="price">1000</span>
                                                                         <p class="sub-title">PER SHOOT</p></div>
                                                                     <div class="wrap-bot">
                                                                         <div class="features-list">
                                                                             <ul>
-                                                                                <li class="enabled">Bacon ham hock
-                                                                                    spare
+                                                                                <li class="enabled">Short Plot Film
                                                                                 </li>
-                                                                                <li class="enabled">Ribs alcatra pork
-                                                                                    andouille
+                                                                                <li class="enabled">Full CD of Pics
                                                                                 </li>
-                                                                                <li class="enabled">Rump biltong jerky
+                                                                                <li class="enabled">20 Reworked Pics
                                                                                 </li>
-                                                                                <li class="enabled">Sirloin porchetta
-                                                                                    swine
+                                                                                <li class="enabled">Make Up
                                                                                 </li>
-                                                                                <li class="enabled">Brisket pork pork
-                                                                                    chop
+                                                                                <li class="enabled">Stylist
                                                                                 </li>
                                                                             </ul>
                                                                         </div>
