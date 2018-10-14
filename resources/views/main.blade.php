@@ -370,7 +370,7 @@
                                                                          data-paddingleft="[0,0,0,0]"
 
                                                                          style="z-index: 5; white-space: nowrap; font-size: 52px; line-height: 52px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">
-                                                                        and
+                                                                        Private parties
                                                                     </div>
 
                                                                     <!-- LAYER NR. 12 -->
@@ -396,7 +396,7 @@
                                                                          data-paddingleft="[0,0,0,0]"
 
                                                                          style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;text-transform:uppercase;">
-                                                                        one
+                                                                        trips
                                                                     </div>
 
                                                                     <!-- LAYER NR. 13 -->
@@ -422,7 +422,7 @@
                                                                          data-paddingleft="[0,0,0,0]"
 
                                                                          style="z-index: 7; white-space: nowrap; font-size: 100px; line-height: 100px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:fa;text-transform:uppercase;">
-                                                                        more
+                                                                        leisure
                                                                     </div>
 
                                                                     <!-- LAYER NR. 14 -->
