@@ -6,6 +6,9 @@
 
         <div class="news container">
             <div class="row">
+                @if(empty($posts))
+                    <div> There is no news right now</div>
+                @endif
                 @foreach($posts as $post)
 
 
