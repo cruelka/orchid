@@ -801,7 +801,7 @@
                                                                     <div class="cms-progress-body">
                                                                         <div class="cms-progress-item-wrap">
                                                                             <h5 class="cms-progress-title">
-                                                                               LATINO MODELS                      <span>
+                                                                               LATINO STYLE MODELS                      <span>
                                                             - 10%                                                    </span>
                                                                             </h5>
                                                                             <div class="cms-progress progress "
