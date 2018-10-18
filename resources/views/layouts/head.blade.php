@@ -771,11 +771,11 @@
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                         <aside id="cms_banner_ads-1" class="widget widget_cms_banner_ads widgett13"><h3
-                                    class="wg-title">Banner Ad</h3>
+                                    class="wg-title">Become a Model</h3>
                             <div class="about-widget">
                                 <div class="post-media"
                                      style="background-image: url(/wp-content/uploads/2017/08/Depositphotos_34377157_original-1-770x512.jpg);">
-                                    <a href="index.html#"><span class="btn">visit</span><span class="image-text">Model Courses</span></a>
+                                    <a href="/register"><span class="btn">visit</span><span class="image-text">Register</span></a>
                                 </div>
                             </div>
                         </aside>
