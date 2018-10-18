@@ -128,7 +128,7 @@ class HomeController extends Controller
                         Photo::create([
 
                             'name' => $name,
-                            'user_id' => $id,
+                            'user' => $id,
 
                         ]);
                     } catch (Exception $e) {

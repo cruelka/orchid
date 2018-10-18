@@ -10,7 +10,7 @@ class Photo extends Model
     protected $table ='photo';
 
     protected $fillable = [
-        'name', 'user_id'
+        'name', 'user'
     ];
 
     
