@@ -74,6 +74,7 @@ class RegisterController extends Controller
             'eyes' => $data['eyes'],
             'hair' => $data['hair'],
             'size' => $data['size'],
+            'bio' => '',
 
             'password' => bcrypt($data['password']),
         ]);
