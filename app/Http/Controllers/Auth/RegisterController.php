@@ -76,6 +76,7 @@ class RegisterController extends Controller
             'size' => $data['size'],
             'bio' => '',
             'price' => 0,
+            'aproval' => 1,
 
             'password' => bcrypt($data['password']),
         ]);
