@@ -15,7 +15,7 @@ class User extends \TCG\Voyager\Models\User
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password',
+        'name', 'email', 'password','height','bust','waist','hips','shoes','eyes','hair','size','bio','price','aproval'
     ];
 
     /**
@@ -26,4 +26,8 @@ class User extends \TCG\Voyager\Models\User
     protected $hidden = [
         'password', 'remember_token',
     ];
+    public function photos(){
+        return $this->hasMany('App\Photo','user');
+
+    }
 }

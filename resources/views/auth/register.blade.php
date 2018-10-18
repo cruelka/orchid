@@ -52,7 +52,6 @@
                                 @endif
                             </div>
                         </div>
-
                         <div class="form-group">
                             <label for="password-confirm" class="col-md-4 control-label">Confirm Password</label>
 
@@ -60,6 +59,72 @@
                                 <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required>
                             </div>
                         </div>
+
+                        <div class="form-group">
+                            <label for="password" class="col-md-4 control-label">Height</label>
+
+                            <div class="col-md-6">
+                                <input id="height" type="text" class="form-control" name="height" required>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="col-md-4 control-label">Waist</label>
+
+                            <div class="col-md-6">
+                                <input id="Waist" type="text" class="form-control" name="waist" required>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="col-md-4 control-label">Bust</label>
+
+                            <div class="col-md-6">
+                                <input id="Bust" type="text" class="form-control" name="bust" required>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="col-md-4 control-label">Hips</label>
+
+                            <div class="col-md-6">
+                                <input id="Hips" type="text" class="form-control" name="hips" required>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="col-md-4 control-label">Shoes</label>
+
+                            <div class="col-md-6">
+                                <input id="Shoes" type="text" class="form-control" name="shoes" required>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="col-md-4 control-label">Eyes</label>
+
+                            <div class="col-md-6">
+                                <input id="eyes" type="text" class="form-control" name="eyes" required>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="col-md-4 control-label">Hair</label>
+
+                            <div class="col-md-6">
+                                <input id="Hair" type="text" class="form-control" name="hair" required>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="col-md-4 control-label">Size</label>
+
+                            <div class="col-md-6">
+                                <input id="Size" type="text" class="form-control" name="size" required>
+
+                            </div>
+                        </div>
+
 
                         <div class="form-group">
                             <div class="col-md-6 col-md-offset-4">
