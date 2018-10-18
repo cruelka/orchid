@@ -111,7 +111,7 @@ class HomeController extends Controller
                     $this->validate($request, [
                         'file' => '|image|max:4096'
                     ]);
-                    $base = "/storage/uploads/";
+                    $base = "storage/uploads/";
                     $name = str_random(50);
                     $extension = 'jpg';
                     try {
