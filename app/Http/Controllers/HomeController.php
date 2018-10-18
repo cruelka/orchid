@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-use Intervention\Image;
+use Intervention\Image\Facades\Image as Image;
 use App\Photo;
 class HomeController extends Controller
 {
