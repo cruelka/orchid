@@ -130,6 +130,7 @@
                                                         </button>
                                                     </div>
                                                 </div>
+
                                             </form>
                                         </div>
                                     </div>
@@ -137,6 +138,36 @@
                             </div>
                         </div>
 
+                    <div class="panel-heading">Change Photo</div>
+
+                    <form method="post" action="/post" enctype="multipart/form-data">
+                        {{ csrf_field() }}
+                        @if ($errors->has('file'))
+                            <span class="help-block">
+                        <strong>{{ $errors->first('file') }}</strong>
+                    </span>
+                        @else
+                            <span class="help-block">
+                	</span>
+                        @endif
+                        <input name="image[]" type="file" multiple>
+                        <input name="image[]" type="file" multiple>
+                        <input name="image[]" type="file" multiple>
+                        <input name="image[]" type="file" multiple>
+                        <input name="image[]" type="file" multiple>
+                        <input name="image[]" type="file" multiple>
+                        <input name="image[]" type="file" multiple>
+                        <input name="image[]" type="file" multiple>
+                        <input type = "submit" value ="add">
+                    </form>
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach($errors->all() as $error)
+                                <li>{{ $error }}</li>
+                            @endforeach
+
+                        </ul>
+                    </div>
 
                 </div>
             </div>

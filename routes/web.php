@@ -46,3 +46,4 @@ Route::get('/blog/{slug}', function($slug){
     return view('posts', compact('posts'));
 });
 Route::get('/logout', 'Auth\LoginController@logout');
+Route::post('/post', 'HomeController@UploadFiles')->name('addPost');
