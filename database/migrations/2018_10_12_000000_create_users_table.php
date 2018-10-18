@@ -28,7 +28,7 @@ class CreateUsersTable extends Migration
             $table->integer('price');
             $table->integer('aproval');
             $table->string('phone');
-
+            
 
             $table->string('email')->unique();
             $table->string('password');
