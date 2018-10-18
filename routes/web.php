@@ -45,3 +45,4 @@ Route::get('/blog/{slug}', function($slug){
     $posts = App\Post::where('category_id', '=', $slug)->paginate(4);;
     return view('posts', compact('posts'));
 });
+Route::get('/logout', 'Auth\LoginController@logout');
