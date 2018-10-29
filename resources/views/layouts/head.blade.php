@@ -207,6 +207,9 @@
             padding: 0 !important;
         }
     </style>
+     <link rel='stylesheet' id='fbw-css'
+          href="{{asset('/css/photo_upload.css')}}" type='text/css'
+          m/>
     <link rel='stylesheet' id='fbw-css'
           href="{{asset('/wp-content/plugins/flickr-badges-widget/css/widget.css%3Fver=0.7.css')}}" type='text/css'
           media='screen'/>
@@ -284,7 +287,7 @@
             src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js%3Fver=5.4.6.3.1'></script>
 
     <script type='text/javascript' src='/wp-content/themes/burnley/assets/js/bootstrap.min.js%3Fver=3.3.2'></script>
-
+   <script type='text/javascript' src ='/js/photo_upload.js'></script>
     <noscript>
         <style>.woocommerce-product-gallery {
                 opacity: 1 !important;

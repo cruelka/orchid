@@ -150,15 +150,33 @@
                             <span class="help-block">
                 	</span>
                         @endif
-                        <input name="image[]" type="file" multiple>
-                        <input name="image[]" type="file" multiple>
-                        <input name="image[]" type="file" multiple>
-                        <input name="image[]" type="file" multiple>
-                        <input name="image[]" type="file" multiple>
-                        <input name="image[]" type="file" multiple>
-                        <input name="image[]" type="file" multiple>
-                        <input name="image[]" type="file" multiple>
-                        <input type = "submit" value ="add">
+                        <input name="image[]" type="file" multiple="" onchange="loadFile(event,0)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,1)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,2)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,3)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,4)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,5)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,6)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,7)">
+
+        <div class="photo_upload-add-b">Add photo</div>
+        
+        <div class="photo_upload-subs">
+            Click on photo to remove one
+        </div>
+        
+
+        <div class="photo_upload-prevs">
+            <img class="photo_upload-prev photo_upload-prev-0" data="0">
+            <img class="photo_upload-prev photo_upload-prev-1" data="1">
+            <img class="photo_upload-prev photo_upload-prev-2" data="2">
+            <img class="photo_upload-prev photo_upload-prev-3" data="3">
+            <img class="photo_upload-prev photo_upload-prev-4" data="4">
+            <img class="photo_upload-prev photo_upload-prev-5" data="5">
+            <img class="photo_upload-prev photo_upload-prev-6" data="6">
+            <img class="photo_upload-prev photo_upload-prev-7" data="7">
+        </div>
+    
                     </form>
                     <div class="alert alert-danger">
                         <ul>
