@@ -175,7 +175,7 @@
             <img class="photo_upload-prev photo_upload-prev-6" data="6">
             <img class="photo_upload-prev photo_upload-prev-7" data="7">
         </div>
-        <input class ="btn btn-primary" value="Upload" type = "submit">
+        <button class ="btn btn-primary"  type = "submit">Upload</button>
 
                     </form>
                     <div class="alert alert-danger">
