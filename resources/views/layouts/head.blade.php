@@ -951,6 +951,7 @@
         src='/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js%3Fver=4.9.8'></script>
 <script type='text/javascript' src='/wp-includes/js/underscore.min.js%3Fver=1.8.3'></script>
 <script type='text/javascript' src='/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js%3Fver=5.4.5'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type='text/javascript' src ='/js/photo_upload.js'></script>
 
 </body>
