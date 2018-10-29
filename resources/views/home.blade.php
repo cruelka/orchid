@@ -178,14 +178,7 @@
         <button class ="btn btn-primary"  type = "submit">Upload</button>
 
                     </form>
-                    <div class="alert alert-danger">
-                        <ul>
-                            @foreach($errors->all() as $error)
-                                <li>{{ $error }}</li>
-                            @endforeach
-
-                        </ul>
-                    </div>
+              
 
                 </div>
             </div>
