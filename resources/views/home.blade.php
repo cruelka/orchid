@@ -158,7 +158,6 @@
         <input name="image[]" type="file" multiple="" onchange="loadFile(event,5)">
         <input name="image[]" type="file" multiple="" onchange="loadFile(event,6)">
         <input name="image[]" type="file" multiple="" onchange="loadFile(event,7)">
-
         <div class="photo_upload-add-b">Add photo</div>
         
         <div class="photo_upload-subs">
@@ -176,7 +175,8 @@
             <img class="photo_upload-prev photo_upload-prev-6" data="6">
             <img class="photo_upload-prev photo_upload-prev-7" data="7">
         </div>
-    
+        <input class ="btn btn-primary" value="Upload" type = "submit">
+
                     </form>
                     <div class="alert alert-danger">
                         <ul>
