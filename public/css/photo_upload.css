@@ -1,0 +1,38 @@
+input[type="file"] {
+    display: none;
+}
+
+.photo_upload-prev {
+    max-width: 100px;
+    float: left;
+    margin: 15px 5px;
+    display: block;
+}
+
+.photo_upload-prevs {
+
+}
+
+.photo_upload-prevs:after {
+    clear: both;
+    display: block;
+    content: '';
+}
+
+.photo_upload-add-b {
+    margin: 0 auto;
+    display: inline-block;
+    background: grey;
+    color: white;
+    font-family: Arial;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.photo_upload-subs {
+    color: grey;
+    font-size: .9em;
+    display: none;
+    font-family: Arial;
+    margin: 15px 0 0;
+}

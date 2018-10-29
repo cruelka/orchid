@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <link rel="stylesheet" type="text/css" href="photo_upload.css">
+</head>
+<body>
+    <form method="post" action="/post" enctype="multipart/form-data">
+        <input type="hidden" name="_token" value="bsIRZBuuSOedFmboaVAu7GsSKAbsV1vItcF6dJmM">
+                                    <span class="help-block">
+    </span>
+        <!-- onchanhe добавь -->
+
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,0)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,1)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,2)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,3)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,4)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,5)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,6)">
+        <input name="image[]" type="file" multiple="" onchange="loadFile(event,7)">
+
+        
+
+        <!-- Добавь вот это -->
+
+        <div class="photo_upload-add-b">Add photo</div>
+        
+        <div class="photo_upload-subs">
+            Click on photo to remove one
+        </div>
+        
+
+        <div class="photo_upload-prevs">
+            <img class="photo_upload-prev photo_upload-prev-0" data="0">
+            <img class="photo_upload-prev photo_upload-prev-1" data="1">
+            <img class="photo_upload-prev photo_upload-prev-2" data="2">
+            <img class="photo_upload-prev photo_upload-prev-3" data="3">
+            <img class="photo_upload-prev photo_upload-prev-4" data="4">
+            <img class="photo_upload-prev photo_upload-prev-5" data="5">
+            <img class="photo_upload-prev photo_upload-prev-6" data="6">
+            <img class="photo_upload-prev photo_upload-prev-7" data="7">
+        </div>
+    
+
+        <!-- ЕГОР -->
+        
+
+    </form>
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="photo_upload.js"></script>
+</body>
+</html>
