@@ -6,6 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Page extends Model
 {
-    protected $table ='photo';
+    protected $table ='pages';
 
 }
