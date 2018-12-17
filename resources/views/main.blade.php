@@ -32,7 +32,6 @@
                                                                     data-slotamount="default" data-hideafterloop="0"
                                                                     data-hideslideonmobile="off" data-easein="default"
                                                                     data-easeout="default" data-masterspeed="300"
-                                                                    data-thumb="http://demo.spyropress.com/themeforest/burnley/wp-content/uploads/revslider/home_slider/slide01-1-100x50.jpg"
                                                                     data-rotate="0" data-saveperformance="off"
                                                                     data-title="Slide" data-param1="" data-param2=""
                                                                     data-param3="" data-param4="" data-param5=""
