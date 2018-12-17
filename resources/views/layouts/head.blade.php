@@ -284,9 +284,9 @@
     <script type='text/javascript'
             src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js%3Fver=5.4.6.3.1'></script>
     <script type='text/javascript'
-            src={{asset('/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js%3Fver=5.4.6.3.1')}}></script>
+            src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js%3Fver=5.4.6.3.1'></script>
 
-    <script type='text/javascript' src={{asset('/wp-content/themes/burnley/assets/js/bootstrap.min.js%3Fver=3.3.2')}}></script>
+    <script type='text/javascript' src='wp-content/themes/burnley/assets/js/bootstrap.min.js%3Fver=3.3.2'></script>
     <noscript>
         <style>.woocommerce-product-gallery {
                 opacity: 1 !important;
