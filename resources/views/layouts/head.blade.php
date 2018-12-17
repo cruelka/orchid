@@ -80,14 +80,15 @@
           media='all'/>
     <link rel='stylesheet' id='js_composer_custom_css-css'
           href='/wp-content/uploads/js_composer/custom.css%3Fver=5.4.5.css' type='text/css' media='all'/>
+
+    <script type='text/javascript' src='wp-content/themes/burnley/assets/js/bootstrap.min.js%3Fver=3.3.2'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js%3Fver=1.12.4'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.js%3Fver=1.4.1'></script>
     <script type='text/javascript'
             src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js%3Fver=5.4.6.3.1'></script>
     <script type='text/javascript'
             src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js%3Fver=5.4.6.3.1'></script>
 
-    <script type='text/javascript' src='wp-content/themes/burnley/assets/js/bootstrap.min.js%3Fver=3.3.2'></script>
-    <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js%3Fver=1.12.4'></script>
-    <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.js%3Fver=1.4.1'></script>
     <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js"></script>
     <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js"></script>
