@@ -508,7 +508,7 @@
                                                                 responsiveLevels: [1240, 1024, 778, 480],
                                                                 gridwidth: [1240, 1024, 778, 480],
                                                                 gridheight: [874, 768, 600, 320],
-                                                                sliderLayout: 'fullwidth'
+                                                                sliderLayout: 'Full-Width'
                                                             });
 
                                                             var revapi2,
@@ -521,7 +521,7 @@
                                                                     revapi2 = tpj("#rev_slider_2_1").show().revolution({
                                                                         sliderType: "standard",
                                                                         jsFileLocation: "//orchid.live/wp-content/plugins/revslider/public/assets/js/",
-                                                                        sliderLayout: "auto",
+                                                                        sliderLayout: "Full-Width",
                                                                         dottedOverlay: "none",
                                                                         delay: 9000,
                                                                         navigation: {
