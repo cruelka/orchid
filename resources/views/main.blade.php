@@ -508,7 +508,7 @@
                                                                 responsiveLevels: [1240, 1024, 778, 480],
                                                                 gridwidth: [1240, 1024, 778, 480],
                                                                 gridheight: [874, 768, 600, 320],
-                                                                sliderLayout: 'Auto'
+                                                                sliderLayout: 'fullwidth'
                                                             });
 
                                                             var revapi2,
@@ -521,7 +521,7 @@
                                                                     revapi2 = tpj("#rev_slider_2_1").show().revolution({
                                                                         sliderType: "standard",
                                                                         jsFileLocation: "//orchid.live/wp-content/plugins/revslider/public/assets/js/",
-                                                                        sliderLayout: "Auto",
+                                                                        sliderLayout: "fullwidth",
                                                                         dottedOverlay: "none",
                                                                         delay: 9000,
                                                                         navigation: {
@@ -629,7 +629,6 @@
                                                             }
                                                         </script>
                                                     </div><!-- END REVOLUTION SLIDER --></div>
-
                                                 <div class="cms-info-plus class-position-absolute cms-info-plus info-plus-model bottom-content main_bg_color3 transparent section_padding_top_30 section_padding_bottom_30 table_section">
                                                     <div class="container">
                                                         <div class="row">
