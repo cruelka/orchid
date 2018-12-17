@@ -25,7 +25,7 @@
                                                          style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
                                                         <!-- START REVOLUTION SLIDER 5.4.6.3.1 fullwidth mode -->
                                                         <div id="rev_slider_2_1" class="rev_slider "
-                                                             style="display:none;" >
+                                                             style="display:none;" data-version="5.4.6.3.1">
                                                             <ul>    <!-- SLIDE  -->
                                                                 <li data-index="rs-4" data-transition="fade"
                                                                     data-slotamount="default" data-hideafterloop="0"
