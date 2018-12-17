@@ -7,10 +7,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{asset('wp-content/themes/burnley/favicon.ico')}}"/>
     <script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
     <title>Model Agency Orchid</title>
-    <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js"></script>
-    <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js"></script>
-    <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js"></script>
-    <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js"></script>
+
      <link rel='stylesheet' id='fbw-css'
           href="{{asset('/css/photo_upload.css')}}" type='text/css'
           m/>
@@ -85,6 +82,10 @@
           href='/wp-content/uploads/js_composer/custom.css%3Fver=5.4.5.css' type='text/css' media='all'/>
     <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js%3Fver=1.12.4'></script>
     <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.js%3Fver=1.4.1'></script>
+    <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js"></script>
     <script type='text/javascript'
             src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js%3Fver=5.4.6.3.1'></script>
     <script type='text/javascript'
