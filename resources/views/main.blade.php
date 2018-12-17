@@ -521,7 +521,7 @@
                                                                     revapi2 = tpj("#rev_slider_2_1").show().revolution({
                                                                         sliderType: "standard",
                                                                         jsFileLocation: "//orchid.live/wp-content/plugins/revslider/public/assets/js/",
-                                                                        sliderLayout: "fullwidth",
+                                                                        sliderLayout: "boxed",
                                                                         dottedOverlay: "none",
                                                                         delay: 9000,
                                                                         navigation: {
