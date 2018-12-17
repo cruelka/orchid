@@ -521,7 +521,7 @@
                                                                 } else {
                                                                     revapi2 = tpj("#rev_slider_2_1").show().revolution({
                                                                         sliderType: "standard",
-                                                                        jsFileLocation: "demo.spyropress.com/themeforest/burnley/wp-content/plugins/revslider/public/assets/js/",
+                                                                        jsFileLocation: "//demo.spyropress.com/themeforest/burnley/wp-content/plugins/revslider/public/assets/js/",
                                                                         sliderLayout: "fullwidth",
                                                                         dottedOverlay: "none",
                                                                         delay: 9000,
