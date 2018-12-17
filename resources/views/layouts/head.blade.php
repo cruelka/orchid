@@ -530,8 +530,6 @@
                         <aside id="vnt_map_address_wg-1" class="widget widget_red_map_address widgett11"><h3
                                     class="wg-title">Our Contacts</h3>
                             <div class="vnt-map-address-wrap">
-                                <iframe src="../../../www.google.com/maps/embed%3Fpb=!1m18!1m12!1m3!1d11109.661434921883!2d-117.85404685405554!3d34.122743829315176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%253A0x876ac1c2caebc4e5!2sBig+Tree+Park!5e0!3m2!1svi!2s!4v1503030766771.html"
-                                        height="220"></iframe>
                                 <ul class="list-unstyled wg-vnt-map-address">
                                     <li><i class="fa fa-globe"></i> Jacksotts str. 698 San Diego, California, USA</li>
                                     <li><i class="fa fa-phone"></i> 1-800-123-4567, 1-800-123-4568</li>
