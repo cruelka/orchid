@@ -1797,15 +1797,7 @@
                                                         class="vc_custom_heading vc_custom_1507351035850">Our Blog</h2>
                                                 <p style="font-size: 12px;color: #ef90a4;text-align: center;font-family:Lusitana;font-weight:700;font-style:normal"
                                                    class="vc_custom_heading vc_custom_1509000978335">LATEST TRENDS OF
-                                                    THE INDUSTRY</p><!-- vc_grid start -->
-                                                <div class="vc_grid-container-wrapper vc_clearfix">
-                                                    <div class="vc_grid-container vc_clearfix wpb_content_element vc_basic_grid"
-                                                         data-initial-loading-animation="fadeIn"
-                                                         data-vc-grid-settings="{&quot;page_id&quot;:31,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1512611784501-f92828be-1454-9&quot;,&quot;tag&quot;:&quot;vc_basic_grid&quot;}"
-                                                         data-vc-request="http://demo.spyropress.com/themeforest/burnley/wp-admin/admin-ajax.php"
-                                                         data-vc-post-id="31" data-vc-public-nonce="242746741f">
-                                                    </div>
-                                                </div><!-- vc_grid end -->
+                                                    THE INDUSTRY</p>
                                             </div>
                                         </div>
                                     </div>
