@@ -522,6 +522,8 @@
                                                                         sliderType: "standard",
                                                                         jsFileLocation: "//orchid.live/wp-content/plugins/revslider/public/assets/js/",
                                                                         sliderLayout: "fullwidth",
+                                                                        fullWidth:"on",
+                                                                        forceFullWidth:"on",
                                                                         dottedOverlay: "none",
                                                                         delay: 9000,
                                                                         navigation: {
