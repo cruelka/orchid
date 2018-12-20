@@ -17,9 +17,7 @@
                                         <div class="vc_column-inner ">
                                             <div class="wpb_wrapper">
                                                 <div class="wpb_revslider_element wpb_content_element margin-zero">
-                                                    <link href="../../../fonts.googleapis.com/css%3Ffamily=Playfair+Display:400%257CRoboto:500.css"
-                                                          rel="stylesheet" property="stylesheet" type="text/css"
-                                                          media="all">
+
                                                     <div id="rev_slider_2_1_wrapper"
                                                          class="rev_slider_wrapper "
                                                          style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
