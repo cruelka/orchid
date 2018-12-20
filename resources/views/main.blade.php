@@ -1832,4 +1832,5 @@
         </div><!-- .content-area -->
 
     </div><!-- .site-content -->
+    <script>window.dispatchEvent(new Event('resize'));</script>
 @endsection
